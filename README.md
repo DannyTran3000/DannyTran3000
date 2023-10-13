@@ -34,13 +34,13 @@
     <img src="https://img.shields.io/badge/email-C5221F?style=for-the-badge&logo=gmail&logoColor=white" alt="Danny Email" />
   </a>
   <a href="https://dmntran.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/website-F76236?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Danny Website" />
+    <img src="https://img.shields.io/badge/website-F76236?style=for-the-badge&labelColor=FFFFFF&logo=google-chrome&logoColor=F76236" alt="Danny Website" />
   </a>
   <a href="https://github.com/DannyTran3000" target="_blank">
-    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="Danny Github" />
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&labelColor=FFFFFF&logo=github&logoColor=181717" alt="Danny Github" />
   </a>
   <a href="https://dmntran.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Danny LinkedIn" />
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&labelColor=FFFFFF&logo=linkedin&logoColor=0A66C2" alt="Danny LinkedIn" />
   </a>
 </p>
 <br />
@@ -70,9 +70,9 @@
 
 ## Can Do
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=000&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=FFFFFF&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=FFFFFF&logo=css3&logoColor=1572B6)
+![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&labelColor=FFFFFF&logo=javascript&logoColor=F7DF1E)
 ![SASS/SCSS](https://img.shields.io/badge/Sass_|_Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=777BB4)
