@@ -1,47 +1,46 @@
-<a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://komarev.com/ghpvc/?username=DannyTran3000">
+  <img align="right" src="https://komarev.com/ghpvc/?username=DannyTran3000&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
-
 
 [![wakatime](https://wakatime.com/badge/user/018b1dc0-cf3f-4bc6-aced-0a57de810ec8.svg)](https://wakatime.com/@018b1dc0-cf3f-4bc6-aced-0a57de810ec8)
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Al Siam</a></b>
-        </samp>
+  <samp>
+    &gt; Hey There!, I am
+    <b>
+      <a target="_blank" href="https://dmntran.vercel.app/">Danny TRAN</a>
+    </b>
+  </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
-    <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
-    <br>
-    <br>
+    <a href="https://dmntran.vercel.app/">「 Explore Me 」</a>
+    <br />
+    「 I am a web-app developer from <b>Melbourne, VIC 3000</b> 」
+    <br />
+    <br />
   </samp>
 </p>
 
 <p align="center">
- <a href="https://alsiam.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
- </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
- </a>
- <!-- <a href="https://dev.to/alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
- </a> -->
- <a href="https://twitter.com/alsiam_dev" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://instagram.com/alsiam_dev" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
- </a> 
- <a href="https://facebook.com/alsiam.world" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
-  </a> 
+  <a href="tel:+61478075375">
+    <img src="https://img.shields.io/badge/phone-05A010?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Danny Phone" />
+  </a>
+  <a href="mailto:trandangminhnhat.dev@gmail.com">
+    <img src="https://img.shields.io/badge/email-C5221F?style=for-the-badge&logo=gmail&logoColor=white" alt="Danny Email" />
+  </a>
+  <a href="https://dmntran.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/website-F76236?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Danny Website" />
+  </a>
+  <a href="https://github.com/DannyTran3000" target="_blank">
+    <img src="https://img.shields.io/badge/github-010409?style=for-the-badge&logo=github&logoColor=white" alt="Danny Github" />
+  </a>
+  <a href="https://dmntran.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Danny LinkedIn" />
+  </a>
 </p>
 <br />
 
@@ -50,12 +49,18 @@
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
 
+  🔭 &emsp; I’m currently working as a freelancer in web development
+  <br/><br/>
+  🌱 &emsp; I’m currently learning mobile development
+  <br/><br/>
+  👯 &emsp; I’m looking to collaborate on any projects
+  <br/><br/>
+  💬 &emsp; Ask me about JavaScript, React and Node.js
+  <br/><br/>
+  📫 &emsp; How to reach me <a href="mailto:trandangminhnhat.dev@gmail.com">trandangminhnhat.dev@gmail.com<a/>
+  <br/><br/>
+  ⚡ &emsp; Enjoy to do programming and sharing knowledge!
 </p>
 
 <br/>
