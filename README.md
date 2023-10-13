@@ -1,10 +1,11 @@
-<a href="https://komarev.com/ghpvc/?username=DannyTran3000">
-  <img align="right" src="https://komarev.com/ghpvc/?username=DannyTran3000&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
+<!-- Intro  -->
+ ## Start
+  <a href="https://komarev.com/ghpvc/?username=DannyTran3000">
+    <img align="right" src="https://komarev.com/ghpvc/?username=DannyTran3000&label=Visitors&color=0e75b6&style=flat"       alt="Profile visitor" />
+  </a>
 
 [![wakatime](https://wakatime.com/badge/user/018b1dc0-cf3f-4bc6-aced-0a57de810ec8.svg)](https://wakatime.com/@018b1dc0-cf3f-4bc6-aced-0a57de810ec8)
 
-<!-- Intro  -->
 <h3 align="center">
   <samp>
     &gt; Hey There!, I am
@@ -45,7 +46,7 @@
 <br />
 
 <!-- About Section -->
- # About me
+ ## About me
  
 <p>
  <img align="right" width="350" src="/assets/about-me.gif" alt="Coding gif" />
@@ -113,12 +114,9 @@
 <br/>
 <br/>
 
-## Top Open Source
+## Inspriraions
 
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/web-projects)
-[![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/al-folio)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam)
-[![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam.github.io)
+[![DannyTran3000](https://github-readme-stats.vercel.app/api/pin/?username=DannyTran3000&repo=DannyTran3000&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/DannyTran3000/DannyTran3000)
 
 <p align="left">
   <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
