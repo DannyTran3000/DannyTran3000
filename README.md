@@ -1,7 +1,7 @@
 <!-- Intro  -->
  ## Start
   <a href="https://komarev.com/ghpvc/?username=DannyTran3000">
-    <img align="right" src="https://komarev.com/ghpvc/?username=DannyTran3000&label=Visitors&color=0e75b6&style=flat"       alt="Profile visitor" />
+    <img align="right" src="https://komarev.com/ghpvc/?username=DannyTran3000&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
   </a>
 
 [![wakatime](https://wakatime.com/badge/user/018b1dc0-cf3f-4bc6-aced-0a57de810ec8.svg)](https://wakatime.com/@018b1dc0-cf3f-4bc6-aced-0a57de810ec8)
