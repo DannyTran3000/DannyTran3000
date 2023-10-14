@@ -27,20 +27,23 @@
 </p>
 
 <p align="center">
-  <a href="/phone.html" target="_blank">
-    <img src="https://img.shields.io/badge/phone-05A010?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Danny Phone" />
-  </a>
   <a href="mailto:trandangminhnhat.dev@gmail.com">
-    <img src="https://img.shields.io/badge/email-C5221F?style=for-the-badge&logo=gmail&logoColor=white" alt="Danny Email" />
+    <img src="https://img.shields.io/badge/email-C5221F?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Danny Email" />
   </a>
-  <a href="https://dmntran.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/website-F76236?style=for-the-badge&labelColor=FFFFFF&logo=google-chrome&logoColor=F76236" alt="Danny Website" />
+  <a href="https://join.skype.com/invite/xgfiVGfERRO2" target="_blank">
+    <img src="https://img.shields.io/badge/skype-00AFF0?style=for-the-badge&logo=skype&logoColor=FFFFFF" alt="Danny Whatsapp" />
+  </a>
+  <a href="https://wa.me/qr/AXL7MQCYGH3KP1" target="_blank">
+    <img src="https://img.shields.io/badge/whatsapp-05A010?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF" alt="Danny Whatsapp" />
   </a>
   <a href="https://github.com/DannyTran3000" target="_blank">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&labelColor=FFFFFF&logo=github&logoColor=181717" alt="Danny Github" />
   </a>
   <a href="https://dmntran.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&labelColor=FFFFFF&logo=linkedin&logoColor=0A66C2" alt="Danny LinkedIn" />
+  </a>
+  <a href="https://dmntran.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/website-F76236?style=for-the-badge&labelColor=FFFFFF&logo=google-chrome&logoColor=F76236" alt="Danny Website" />
   </a>
 </p>
 <br />
