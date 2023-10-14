@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <a href="tel:+61478075375">
+  <a href="/phone.html" target="_blank">
     <img src="https://img.shields.io/badge/phone-05A010?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Danny Phone" />
   </a>
   <a href="mailto:trandangminhnhat.dev@gmail.com">
