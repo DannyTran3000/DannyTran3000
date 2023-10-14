@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="mailto:trandangminhnhat.dev@gmail.com">
-    <img src="https://img.shields.io/badge/email-C5221F?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Danny Email" />
+    <img src="https://img.shields.io/badge/gmail-C5221F?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Danny Email" />
   </a>
   <a href="https://join.skype.com/invite/xgfiVGfERRO2" target="_blank">
     <img src="https://img.shields.io/badge/skype-00AFF0?style=for-the-badge&logo=skype&logoColor=FFFFFF" alt="Danny Whatsapp" />
