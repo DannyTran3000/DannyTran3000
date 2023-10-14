@@ -119,7 +119,6 @@
 
 ## Inspriraions
 
-[![DannyTran3000](https://github-readme-stats.vercel.app/api/pin/?username=DannyTran3000&repo=DannyTran3000&theme=radical)](https://github.com/DannyTran3000/DannyTran3000)
 
 <!-- <p align="left">
   <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
