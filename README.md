@@ -80,6 +80,7 @@
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&labelColor=FFFFFF&logo=typescript&logoColor=3178C6)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&labelColor=FFFFFF&logo=php&logoColor=777BB4)
 
+![Jquery](https://img.shields.io/badge/Jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=FFFFFF)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&labelColor=FFFFFF&logo=bootstrap&logoColor=7952B3)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=FFFFFF)
 ![Ant-Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=FFFFFF)
