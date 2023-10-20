@@ -104,10 +104,11 @@
 ![Shopify](https://img.shields.io/badge/shopify-7AB55C?style=for-the-badge&labelColor=FFFFFF&logo=shopify&logoColor=7AB55C)
 ![WooCommerce](https://img.shields.io/badge/woocommerce-96588A?style=for-the-badge&labelColor=FFFFFF&logo=woo&logoColor=96588A)
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=FFFFFF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
+![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=FFFFFF)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
+![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
+![AWS](https://img.shields.io/badge/aws-232FBE?style=for-the-badge&logo=amazon%20aws&logoColor=FFFFFF)
 
 ![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=FFFFFF)
 ![Cypress](https://img.shields.io/badge/cypress-17202C?style=for-the-badge&labelColor=FFFFFF&logo=cypress&logoColor=17202C)
