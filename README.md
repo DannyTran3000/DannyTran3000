@@ -93,16 +93,11 @@
 ![Styled Components](https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styled-components&logoColor=FFFFFF)
 ![GraphQL](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=FFFFFF)
 
-![Vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=FFFFFF)
-![Nuxt.js](https://img.shields.io/badge/nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=FFFFFF)
-![Angular](https://img.shields.io/badge/angular-DD0031?style=for-the-badge&labelColor=FFFFFF&logo=angular&logoColor=DD0031)
-
 ![Nodejs](https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=node.js&logoColor=FFFFFF)
 ![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=FFFFFF)
 ![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=FFFFFF)
 ![Wordpress](https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=FFFFFF)
 ![Shopify](https://img.shields.io/badge/shopify-7AB55C?style=for-the-badge&labelColor=FFFFFF&logo=shopify&logoColor=7AB55C)
-![WooCommerce](https://img.shields.io/badge/woocommerce-96588A?style=for-the-badge&labelColor=FFFFFF&logo=woo&logoColor=96588A)
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
 ![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=FFFFFF)
@@ -110,10 +105,6 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
 ![AWS](https://img.shields.io/badge/aws-232FBE?style=for-the-badge&logo=amazon%20aws&logoColor=FFFFFF)
 
-![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=FFFFFF)
-![Cypress](https://img.shields.io/badge/cypress-17202C?style=for-the-badge&labelColor=FFFFFF&logo=cypress&logoColor=17202C)
-![Babel](https://img.shields.io/badge/babel-F9DC3E?style=for-the-badge&labelColor=333333&logo=babel&logoColor=F9DC3E)
-![Webpack](https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&labelColor=333333&logo=webpack&logoColor=8DD6F9)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&labelColor=FFFFFF&logo=git&logoColor=F05032)
 ![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&labelColor=FFFFFF&logo=github&logoColor=181717)
 ![Gitlab](https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=FFFFFF)
