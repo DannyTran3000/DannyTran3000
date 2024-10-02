@@ -1,7 +1,7 @@
 # Wordpress and Google Accelerated Mobile Pages (AMP): Everything You Need to Know
 
-|:-------------------------------------------------|
-| Content                                          |
+
+| :-Content                                          |
 |--------------------------------------------------|
 | 1. Google Accelerated Mobile Pages - What is it? |
 | 2. Advantages of Google AMP                      |
