@@ -36,7 +36,7 @@
   <a href="https://wa.me/qr/AXL7MQCYGH3KP1" target="_blank">
     <img src="https://img.shields.io/badge/whatsapp-05A010?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF" alt="Danny Whatsapp" />
   </a>
-  <a href="https://www.linkedin.com/in/dannytran1997/" target="_blank">
+  <a href="https://www.linkedin.com/in/dmntran/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&labelColor=FFFFFF&logo=linkedin&logoColor=0A66C2" alt="Danny LinkedIn" />
   </a>
   <a href="https://dmntran.vercel.app/" target="_blank">
